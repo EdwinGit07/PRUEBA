@@ -1,0 +1,88 @@
+JUNTA MONETARIA
+RESOLUCIÓN JM-98-2025
+Inserta en el punto noveno del acta 46-2025, correspondiente a la sesión celebrada
+por la Junta Monetaria el 22 de octubre de 2025.
+PUNTO NOVENO: Superintendencia de Bancos solicita a Junta Monetaria
+emitir un nuevo Reglamento para la Administración del Riesgo Tecnológico.
+RESOLUCIÓN JM-98-2025. Conocido el oficio número 8810-2025, del 9 de
+octubre de 2025, del Superintendente de Bancos, al que se adjunta el dictamen
+número 17-2025, de la Superintendencia de Bancos, por medio del cual solicita a
+esta junta emitir un nuevo Reglamento para la Administración del Riesgo
+Tecnológico.
+LA JUNTA MONETARIA:
+CONSIDERANDO: Que el artículo 55 de la Ley de Bancos y Grupos Financieros
+establece que los bancos y las empresas que integran grupos financieros deberán
+contar con procesos integrales que incluyan, entre otros, la administración del
+riesgo operacional, del cual forma parte el riesgo tecnológico, que contengan
+sistemas de información y un comité de gestión de riesgos, todo ello con el
+propósito de identificar, medir, monitorear, controlar y prevenir los riesgos;
+CONSIDERANDO: Que esta junta mediante resolución JM-104-2021, del 26 de
+noviembre de 2021, emitió el Reglamento para la Administración del Riesgo
+Tecnológico, a efecto de normar los lineamientos que, como mínimo, deben
+observar las instituciones para la administración del riesgo tecnológico, incluyendo
+el establecimiento de políticas y procedimientos; las responsabilidades del Consejo
+de Administración, del Comité de Gestión de Riesgos y de la Unidad de
+Administración de Riesgos; aspectos sobre la infraestructura de tecnología de la
+información, sistemas de información, bases de datos y servicios de tecnología de
+la información; seguridad de tecnología de la información; ciberseguridad; plan de
+recuperación ante desastres; así como, lo relativo al procesamiento y/o
+almacenamiento de información; CONSIDERANDO: Que el desarrollo a nivel
+mundial de la tecnología y las telecomunicaciones han generado mayor rapidez y
+facilidad para el tratamiento e intercambio de datos, surgiendo nuevos tipos de
+servicios y modelos, interconectados con Internet o redes externas, que procesan
+y/o almacenan información, lo cual conlleva un incremento del riesgo tecnológico
+por la existencia de amenazas cibernéticas que ponen en riesgo los activos de la
+información; CONSIDERANDO: Que para la realización de sus operaciones y
+prestación de servicios las instituciones del sistema financiero dependen del uso
+de tecnologías de la información y telecomunicaciones, por lo que se hace
+necesario regular nuevos aspectos para que estas gestionen su riesgo tecnológico
+con el propósito de asegurar la integridad, disponibilidad y confidencialidad de la
+información, así como la continuidad de operaciones y la prestación de sus
+servicios; CONSIDERANDO: Que dada la actualización de los estándares
+internacionales relacionados a seguridad de la información y ciberseguridad, los
+cuales brindan un conjunto de mejores prácticas, directrices y procedimientos para
+garantizar la confidencialidad, integridad y disponibilidad de la información, así
+como gestionar y mitigar el riesgo tecnológico, es pertinente incorporar al marco
+normativo tales actualizaciones, con la finalidad de prevenir o reducir el impacto de
+ataques cibernéticos y proteger los activos de información; CONSIDERANDO: Que
+las instituciones han implementado el uso de sistemas de inteligencia artificial
+dentro de sus operaciones y servicios, tecnología que tiene la particularidad de
+transformar el negocio financiero, por un lado, mejorando la eficiencia operativa, y
+por otro, incrementando el riesgo tecnológico, razón por la cual se hace necesario
+emitir lineamientos específicos que dichas instituciones deben cumplir para gestionar este riesgo y garantizar que los referidos sistemas sean utilizados de
+manera segura, responsable y en función de la protección de los usuarios de
+servicios y productos financieros, así como de la estabilidad del sistema financiero
+en su conjunto; CONSIDERANDO: Que según se indica en el dictamen número
+17-2025, de la Superintendencia de Bancos, luego de la revisión del actual
+reglamento, del análisis de los estándares internacionales, la normativa
+internacional y de las mejores prácticas internacionales, se concluye que es
+pertinente que esta junta emita un nuevo Reglamento para la Administración del
+Riesgo Tecnológico, que incluya el fortalecimiento en aspectos para la
+ciberseguridad; análisis de criticidad para servicios tecnológicos que procesan y/o
+almacenan información; sistemas de inteligencia artificial; ampliación de los
+mecanismos de intercambio de información; pruebas al plan de recuperación ante
+desastres; requisitos adicionales para la contratación con terceros de servicios
+tecnológicos que procesan y/o almacenan información, incluyendo los
+subcontratistas y subcontratistas en cadena; así como, otras modificaciones que
+permitan una actualización integral de la norma,
+
+POR TANTO:
+Con base en lo considerado, y con fundamento en lo dispuesto en los artículos 26
+incisos l y m, y 64 de la Ley Orgánica del Banco de Guatemala; 55, 56, 57 y 129
+de la Ley de Bancos y Grupos Financieros; y, tomando en cuenta el oficio número
+8810-2025 y el dictamen número 17-2025, ambos de la Superintendencia de
+Bancos,
+RESUELVE:
+1. Emitir, conforme Anexo a la presente resolución, el Reglamento para la
+Administración del Riesgo Tecnológico.
+2. Derogar la resolución JM-104-2021.
+3. Establecer que los expedientes formados y las solicitudes que se encuentren
+en proceso al amparo de la resolución JM-104-2021, deberán continuar su
+trámite y ser resueltos con lo establecido en dicha resolución.
+4. Autorizar a la secretaría de esta junta para que publique la presente resolución
+en el diario oficial y en otro periódico, la cual entrará en vigencia el día de su
+publicación.
+Romeo Augusto Archila Navarro
+Secretario
+Junta Monetaria
+Publicada en el Diario de Centro América el 30 de octubre de 2025.
